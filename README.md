@@ -58,5 +58,20 @@ Each project focuses on a specific real-world use case, gradually increasing in 
    git clone https://github.com/yasirhussaindev/nestjs-mastery-hub.git
    cd nestjs-mastery-projects
 
+2. **Pick a Project**
+   ```bash
+   cd 01-auth-system
+   npm install
+   npm run start:dev
+
+3. **Start PostgreSQL (with Docker)**
+   ```bash
+   docker-compose up -d
+
+4.Visit Swagger Docs
+   ```bash
+   http://localhost:3000/api
+   
+
 ## “Code. Learn. Build. Repeat.”
 Your skills are your future — start strong, finish stronger 🔥
