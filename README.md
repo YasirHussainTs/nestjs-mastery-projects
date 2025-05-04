@@ -72,6 +72,7 @@ Each project focuses on a specific real-world use case, gradually increasing in 
    ```bash
    http://localhost:3000/api
    
+---
 
 ## “Code. Learn. Build. Repeat.”
 Your skills are your future — start strong, finish stronger 🔥
